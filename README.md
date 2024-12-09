@@ -17,3 +17,6 @@ A simple Customer Relationship Management (CRM) application built using the Djan
 - Backend: Django
 - Frontend: HTML, CSS (Django Templates)
 - Database: MySQL 
+
+
+![image](https://github.com/user-attachments/assets/b00fd8ae-40d0-4c0d-bcb8-02108d978f62)
